@@ -16,6 +16,11 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <div className={styles.description}>
+          <div>
+          <h1 className="text-2xl font-bold underline">
+      Hello development!
+    </h1>
+          </div>
           <p>
             Get started by editing&nbsp;
             <code className={styles.code}>pages/index.tsx</code>
